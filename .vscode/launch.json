@@ -9,7 +9,7 @@
             "name": "Launch built-in server",
             "type": "pwa-chrome",
             "request": "launch",
-            "url": "http://localhost/sdc310_week4_pa/view/display_users.php",
+            "url": "http://localhost/sdc310_week4_pa/controller/product_controller.php",
             "webRoot": "$(workspaceFolder)"
 
           
